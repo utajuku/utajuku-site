@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>うた塾｜カラオケ採点で実力アップ！本格ボイストレーニング教室</title>
-  <meta name="description" content="うた塾は、カラオケ採点で歌が上手くなるボイストレーニング教室です。初心者からプロ志望まで、楽しく実力を伸ばせます。無料体験実施中！" />
+  <title>うた塾｜SNSを用いた現代的ボイストレーニング教室</title>
+  <meta name="description" content="うた塾は、SNSを活用してカラオケ採点の裏技やミックスボイスなどの発声について基礎から応用まで指導を行うボイストレーニング教室です。どんな人でも楽しく実力を伸ばせます。無料体験実施中！ホームページ→https://karaokesaitenschoo.wixsite.com/my-site-1" />
   <style>
     body {
       font-family: sans-serif;
@@ -53,7 +53,7 @@
 <body>
   <header>
     <h1>ボイストレーニング教室｜うた塾</h1>
-    <p>カラオケ採点で歌がうまくなる！</p>
+    <p>電話でボイトレができる！</p>
   </header>
 
   <nav>
@@ -72,21 +72,20 @@
     <section id="course">
       <h2>サービス内容紹介</h2>
       <ul>
-        <li><strong>初心者コース：</strong> 基本の発声・音程トレーニング</li>
-        <li><strong>中級コース：</strong> 表現力・抑揚の強化</li>
-        <li><strong>プロ志望コース：</strong> パフォーマンス・ライブ指導</li>
+        <li><strong>通話ボイトレ：</strong> 各種SNSの通話機能でボイトレ</li>
+        <li><strong>チャットボイトレ：</strong> 普段使っているSNSのDMなどから質問対応</li>
+        <li><strong>お得なセットプラン：</strong> 長期継続で安くなるプラン</li>
       </ul>
-      <p>いずれもカラオケ採点データを活用した実践的トレーニングです。</p>
     </section>
 
     <section id="access">
       <h2>お問い合わせ、予約</h2>
-      <p>各種SNSまたはホームページから予約可能！</p>
+      <p>各種SNSまたはホームページ（https://karaokesaitenschoo.wixsite.com/my-site-1）から予約可能！</p>
       <p>オンラインレッスンで対応可能！全国どこでも受講できます。</p>
     </section>
 
     <section id="contact">
-      <h2>お問い合わせ予約</h2>
+      <h2>お問い合わせ、予約</h2>
       <p>無料体験レッスンのお申込み・ご相談はこちらから：</p>
       <p><a href="mailto:info@utajuku.jp">info@utajuku.jp</a></p>
     </section>
