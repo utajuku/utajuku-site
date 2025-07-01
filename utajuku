@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>うた塾｜カラオケ採点で実力アップ！本格ボイストレーニング教室</title>
+  <meta name="description" content="うた塾は、カラオケ採点で歌が上手くなるボイストレーニング教室です。初心者からプロ志望まで、楽しく実力を伸ばせます。無料体験実施中！" />
+  <style>
+    body {
+      font-family: sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #fff;
+      color: #333;
+    }
+    header {
+      background: #222;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #f5f5f5;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      color: #222;
+      text-decoration: none;
+    }
+    main {
+      padding: 20px;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    footer {
+      background: #222;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+    }
+    @media (max-width: 600px) {
+      nav a {
+        display: block;
+        margin: 10px 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>ボイストレーニング教室｜うた塾</h1>
+    <p>カラオケ採点で歌がうまくなる！</p>
+  </header>
+
+  <nav>
+    <a href="#about">うた塾とは</a>
+    <a href="#course">サービス内容紹介</a>
+    <a href="#access">アクセス</a>
+    <a href="#contact">お問い合わせ</a>
+  </nav>
+
+  <main>
+    <section id="about">
+      <h2>うた塾とは？</h2>
+      <p>うた塾は、SNSを活用した全く新しいスタイルのボイストレーニング教室です。SNSでのチャット機能や通話機能を用いて格安でボイトレができます！</p>
+    </section>
+
+    <section id="course">
+      <h2>サービス内容紹介</h2>
+      <ul>
+        <li><strong>初心者コース：</strong> 基本の発声・音程トレーニング</li>
+        <li><strong>中級コース：</strong> 表現力・抑揚の強化</li>
+        <li><strong>プロ志望コース：</strong> パフォーマンス・ライブ指導</li>
+      </ul>
+      <p>いずれもカラオケ採点データを活用した実践的トレーニングです。</p>
+    </section>
+
+    <section id="access">
+      <h2>お問い合わせ、予約</h2>
+      <p>各種SNSまたはホームページから予約可能！</p>
+      <p>オンラインレッスンで対応可能！全国どこでも受講できます。</p>
+    </section>
+
+    <section id="contact">
+      <h2>お問い合わせ予約</h2>
+      <p>無料体験レッスンのお申込み・ご相談はこちらから：</p>
+      <p><a href="mailto:info@utajuku.jp">info@utajuku.jp</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 うた塾 | ボイストレーニング教室</p>
+  </footer>
+</body>
+</html>
